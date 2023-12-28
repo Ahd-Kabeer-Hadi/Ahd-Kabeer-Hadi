@@ -17,14 +17,14 @@ I just love solving problems and bringing some interesting ideas to life through
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=120118908" target="_blank" style="display: block" align="right">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=120118908&image_size=auto&color_scheme=dark" width="386" height="auto">
-    <img alt="Dashboard stats of @Ahd-Kabeer-Hadi" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=120118908&image_size=auto&color_scheme=light" width="386" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=120118908&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Ahd-Kabeer-Hadi" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=120118908&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=120118908&period=all_times" target="_blank" style="display: block" align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=120118908&period=all_times&image_size=auto&color_scheme=dark" width="386" height="auto">
-    <img alt="Contribution Time Distribution of @Ahd-Kabeer-Hadi" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=120118908&period=all_times&image_size=auto&color_scheme=light" width="386" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=120118908&period=all_times&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Contribution Time Distribution of @Ahd-Kabeer-Hadi" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=120118908&period=all_times&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
 
