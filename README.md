@@ -41,7 +41,7 @@ I just love solving problems and bringing some interesting ideas to life through
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
+<ul style="list-style: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/kabeerhadi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
