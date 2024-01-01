@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/Ahd-Kabeer-Hadi?logo=github&style=f
 src="https://img.shields.io/twitter/follow/Ahd_Kabeerpi?logo=twitter&style=for-the-badge&color=a855f7&labelColor=0f172a"
 /></a>
 
-### Stats
+### Github Stats
 
 
 <a href="http://www.github.com/Ahd-Kabeer-Hadi"><img src="https://github-readme-stats.vercel.app/api?username=Ahd-Kabeer-Hadi&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="Ahd-Kabeer-Hadi's GitHub stats" /></a>
