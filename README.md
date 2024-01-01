@@ -16,10 +16,7 @@ I just love solving problems and bringing some interesting ideas to life through
 * 🤝  I'm open to collaborating on Open Source and SaaS projects
 * ⚡  I'm ready to help you if you want to learn coding
 
-<a href="https://www.github.com/Ahd-Kabeer-Hadi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Ahd-Kabeer-Hadi?logo=github&style=for-the-badge&color=a855f7&labelColor=0f172a" /></a><a href="https://www.x.com/Ahd_Kabeerpi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Ahd_Kabeerpi?logo=twitter&style=for-the-badge&color=a855f7&labelColor=0f172a"
-/></a>
+
 
 ### Github Stats
 
