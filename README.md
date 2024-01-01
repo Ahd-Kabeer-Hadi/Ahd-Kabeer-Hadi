@@ -1,32 +1,38 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahd. Kabeer hadi
+
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahd. Kabeer Hadi
 ========================================================================================================================================
 
-I'm a self-taught Software Dev
-------------------------------
+Full stack developer
+--------------------
 
 I just love solving problems and bringing some interesting ideas to life through 0s and 1s. I bring my 5+ years of experience as a Full Stack Developer in various renowned companies to the table to make this stuff happen. I am proficient in Angular, Python, and MERN and possess industry-standard UX and UI skills.
 
 * 🌍  I'm based in Kozhikode, Kerala, India
-* 🖥️  See my portfolio at [Mirrorfolio](https://mirrorfolio.com)
+* 🖥️  See my portfolio at [Mirrorfolio](http://mirrorfolio.com)
 * ✉️  You can contact me at [ahd.kabeerpi@gmail.com](mailto:ahd.kabeerpi@gmail.com)
-* 🚀  I'm currently working on [Mirrorfolio](https://mirrorfolio.com)
+* 🚀  I'm currently working on [Mirrorfolio](http://(s)://mirrorfolio.com)
 * 🧠  I'm learning MERN, Web3
 * 🤝  I'm open to collaborating on Open Source and SaaS projects
 * ⚡  I'm ready to help you if you want to learn coding
 
+<a href="https://www.github.com/Ahd-Kabeer-Hadi" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Ahd-Kabeer-Hadi?logo=github&style=for-the-badge&color=a855f7&labelColor=0f172a" /></a><a href="https://www.x.com/Ahd_Kabeerpi" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Ahd_Kabeerpi?logo=twitter&style=for-the-badge&color=a855f7&labelColor=0f172a"
+/></a>
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=120118908" target="_blank" style="display: block" align="right">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=120118908&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Ahd-Kabeer-Hadi" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=120118908&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=120118908&period=all_times" target="_blank" style="display: block" align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=120118908&period=all_times&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Contribution Time Distribution of @Ahd-Kabeer-Hadi" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=120118908&period=all_times&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+### Stats
+
+
+<a href="http://www.github.com/Ahd-Kabeer-Hadi"><img src="https://github-readme-stats.vercel.app/api?username=Ahd-Kabeer-Hadi&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="Ahd-Kabeer-Hadi's GitHub stats" /></a>
+
+<a href="http://www.github.com/Ahd-Kabeer-Hadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahd-Kabeer-Hadi&stroke=ffffff&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Ahd-Kabeer-Hadi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahd-Kabeer-Hadi&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahd-Kabeer-Hadi&bg_color=001052&color=ffffff&line=ffffff&point=64fa00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ### Skills
 
@@ -36,12 +42,14 @@ I just love solving problems and bringing some interesting ideas to life through
 </p>
 
 
+### Socials
 
-<a href="https://github.com/Ahd-Kabeer-Hadi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahd-Kabeer-Hadi&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left"> <a href="https://discord.com/users/reza-hadi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Ahd-Kabeer-Hadi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://kabeerhadi.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mirrorfolio" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ahd-kabeer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Ahd_Kabeerpi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@mirrorfolio" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@mirrorfolio" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+
 
 ### Support Me
 
-<ul style="list-style: none; margin: 0;">
+<ul style="list-style-type: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/kabeerhadi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
