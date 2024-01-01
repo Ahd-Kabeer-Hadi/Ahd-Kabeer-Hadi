@@ -1,6 +1,7 @@
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
 I'm Ahd. Kabeer Hadi
 ========================================================================================================================================
 
@@ -16,6 +17,8 @@ I just love solving problems and bringing some interesting ideas to life through
 * 🧠  I'm learning MERN, Web3
 * 🤝  I'm open to collaborating on Open Source and SaaS projects
 * ⚡  I'm ready to help you if you want to learn coding
+
+--------------------
 
 
 
