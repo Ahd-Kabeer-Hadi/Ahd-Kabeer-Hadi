@@ -1,11 +1,11 @@
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi glad your'e here![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I'm Ahd. Kabeer Hadi
+Myself Ahd. Kabeer Hadi
 ========================================================================================================================================
 
-Full stack developer
+And I'm a Full stack developer
 --------------------
 
 I just love solving problems and bringing some interesting ideas to life through 0s and 1s. I bring my 5+ years of experience as a Full Stack Developer in various renowned companies to the table to make this stuff happen. I am proficient in Angular, Python, and MERN and possess industry-standard UX and UI skills.
