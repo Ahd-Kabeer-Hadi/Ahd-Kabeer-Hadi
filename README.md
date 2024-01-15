@@ -6,6 +6,7 @@ Myself Ahd. Kabeer Hadi
 ========================================================================================================================================
 
 And I'm a Full stack developer
+
 --------------------
 
 I just love solving problems and bringing some interesting ideas to life through 0s and 1s. I bring my 5+ years of experience as a Full Stack Developer in various renowned companies to the table to make this stuff happen. I am proficient in Angular, Python, and MERN and possess industry-standard UX and UI skills.
