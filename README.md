@@ -1,16 +1,11 @@
 
 
-Hi, glad your'e here![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Greetings!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Myself Ahd. Kabeer Hadi
-========================================================================================================================================
 
-And I'm a Full stack developer
-
---------------------
-
-I just love solving problems and bringing some interesting ideas to life through 0s and 1s. I bring my 5+ years of experience as a Full Stack Developer in various renowned companies to the table to make this stuff happen. I am proficient in Angular, Python, and MERN and possess industry-standard UX and UI skills.
-
+ I’m Kabeer, an adept Software Developer and the visionary behind [Menteor](https://www.menteor.space/), a revolutionary one-to-one mentorship platform for skill-based knowledge transfer. Specializing in MERN (MongoDB, Express.js, React, Node.js) stack development, I’ve honed my skills through diverse experiences, including co-founding [Menteor](https://www.menteor.space/) and leading the development of [CyberSquare’s](https://cybersquare.org/) Integrated Online IDE. My journey spans  5+ years in ed-tech, freelancing, and founding [Menteor](https://www.menteor.space/), showcasing a unique blend of skills in MERN stack and digital innovation.
+ ----------------
+I just love solving problems and bringing some interesting ideas to life through 0s and 1s.
 * 🌍  I'm based in Kozhikode, Kerala, India
 * 🖥️  See my portfolio at [Mirrorfolio](http://mirrorfolio.com)
 * ✉️  You can contact me at [ahd.kabeerpi@gmail.com](mailto:ahd.kabeerpi@gmail.com)
