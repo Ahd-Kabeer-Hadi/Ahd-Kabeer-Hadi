@@ -14,7 +14,7 @@ I just love solving problems and bringing some interesting ideas to life through
 * 🤝  I'm open to collaborating on Open Source and SaaS projects
 * ⚡  I'm ready to help you if you want to learn coding
 
----------------------------
+-----------------------------------
 
 
 
