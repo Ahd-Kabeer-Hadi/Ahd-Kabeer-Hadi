@@ -1,20 +1,33 @@
 
+# Greetings! 👋
 
-Greetings!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+![Greetings](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+I'm Ahammad Kabeer Hadi, a multidisciplinary self-taught software engineer with over 5 years of experience in the tech industry. Based in Kozhikode, Kerala, India (🇮🇳), I'm passionate about crafting innovative digital solutions that make a real impact. My approach to software development is driven by a constant pursuit of excellence, expertise, and a love for experimentation.
+
+---
+
+- 💡 I just love solving problems and bringing some interesting ideas to life through 0s and 1s.
+- ⚡️ I'm ready to help you if you want to learn coding.
+
+### Let's Connect!
 
 
- I’m Kabeer,I help turn your ideas into digital realities.
- ----------------
-I just love solving problems and bringing some interesting ideas to life through 0s and 1s.
-* 🌍  I'm based in Kozhikode, Kerala, India
-* 🖥️  See my portfolio at [Mirrorfolio](http://mirrorfolio.com)
-* ✉️  You can contact me at [ahd.kabeerpi@gmail.com](mailto:ahd.kabeerpi@gmail.com)
-* 🚀  I'm currently working on [Mirrorfolio](http://(s)://mirrorfolio.com)
-* 🧠  I'm learning MERN, Web3
-* 🤝  I'm open to collaborating on Open Source and SaaS projects
-* ⚡  I'm ready to help you if you want to learn coding
+- **Website:** [mirrorfolio.com](http://mirrorfolio.com)
+- **Email:** ahd.kabeerpi@gmail.com
+- **Appointments:** [cal.com/ahd-kabeerhadi](https://cal.com/ahd-kabeerhadi)
+- **GitHub:** [@Ahd-Kabeer-Hadi](https://github.com/Ahd-Kabeer-Hadi)
+- **Twitter:** [Ahd_Kabeerpi](https://twitter.com/Ahd_Kabeerpi)
+- **Instagram:** [reza_n_hadi](https://www.instagram.com/reza_n_hadi/)
+- **LinkedIn:** [Ahd Kabeer](https://www.linkedin.com/in/ahd-kabeer/)
 
-----------------------------------------
+
+---
+
+
+
+
+
 
 
 
@@ -27,7 +40,7 @@ I just love solving problems and bringing some interesting ideas to life through
 
 <a href="https://github.com/Ahd-Kabeer-Hadi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahd-Kabeer-Hadi&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahd-Kabeer-Hadi&bg_color=0f172a&color=ffffff&line=ffffff&point=5566f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ### Skills
@@ -38,9 +51,7 @@ I just love solving problems and bringing some interesting ideas to life through
 </p>
 
 
-### Socials
 
-<p align="left"> <a href="https://discord.com/users/reza-hadi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Ahd-Kabeer-Hadi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://kabeerhadi.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mirrorfolio" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ahd-kabeer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Ahd_Kabeerpi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@mirrorfolio" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@mirrorfolio" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 
 
 ### 💰 You can help me by Donating
