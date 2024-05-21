@@ -33,12 +33,12 @@ I'm Ahammad Kabeer Hadi, a multidisciplinary self-taught software engineer with 
 
 ### Github Stats
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ahd-Kabeer-Hadi&theme=youtube-dark&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
-<a href="http://www.github.com/Ahd-Kabeer-Hadi"><img src="https://github-readme-stats.vercel.app/api?username=Ahd-Kabeer-Hadi&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="Ahd-Kabeer-Hadi's GitHub stats" /></a>
+<a href="http://www.github.com/Ahd-Kabeer-Hadi"><img src="https://github-readme-stats.vercel.app/api?username=Ahd-Kabeer-Hadi&show_icons=true&hide=&count_private=true&title_color=FF0000&text_color=ffffff&icon_color=FF0000&bg_color=0d1117&hide_border=true&show_icons=true" alt="Ahd-Kabeer-Hadi's GitHub stats" /></a>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ahd-Kabeer-Hadi&theme=dark&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
-<a href="https://github.com/Ahd-Kabeer-Hadi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahd-Kabeer-Hadi&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Ahd-Kabeer-Hadi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahd-Kabeer-Hadi&langs_count=10&title_color=FF0000&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
@@ -54,5 +54,8 @@ I'm Ahammad Kabeer Hadi, a multidisciplinary self-taught software engineer with 
 
 
 
-### 💰 You can help me by Donating
+### Support me on
+
 <a href="https://www.buymeacoffee.com/kabeerhadi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+
+<a href="https://paypal.me/kabeerpi?country.x=IN&locale.x=en_GB"><img src="https://github.com/Ahd-Kabeer-Hadi/Ahd-Kabeer-Hadi/assets/120118908/ae930bcb-777b-40ac-bab1-d136b3f2554d" width="150"/></a>
