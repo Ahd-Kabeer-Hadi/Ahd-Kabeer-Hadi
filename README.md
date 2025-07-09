@@ -5,7 +5,7 @@
 
 I'm Ahammad Kabeer Hadi, a multidisciplinary self-taught software engineer with over 5 years of experience in the tech industry. Based in Kozhikode, Kerala, India (🇮🇳), I'm passionate about crafting innovative digital solutions that make a real impact. My approach to software development is driven by a constant pursuit of excellence, expertise, and a love for experimentation.
 
----
+---   
 
 - 💡 I just love solving problems and bringing some interesting ideas to life through 0s and 1s.
 - ⚡️ I'm ready to help you if you want to learn coding.
